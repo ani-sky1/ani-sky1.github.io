@@ -1,0 +1,21 @@
+body{
+	background-image: url(https://www.xmple.com/wallpaper/pink-linear-cyan-gradient-1920x1080-c2-dc6d92-55eef9-a-90-f-14.svg);
+}
+a{  
+	opacity: 0.5;
+	font-size: 18px;
+	background-color: white;
+	color: #D77095;
+	border: 2px solid #6ED5E5;
+	padding: 5px;
+	margin: 2px;
+	border-radius: 15px;
+	font-weight: 50px
+}
+img{
+	margin-top: 100px;
+	margin-left: 10px;
+}
+a:hover{
+	opacity: 1;
+}
